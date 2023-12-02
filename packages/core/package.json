@@ -9,9 +9,10 @@
   "devDependencies": {
     "vitest": "^0.34.6",
     "@types/node": "^20.10.0",
-    "sst": "^2.36.6"
+    "sst": "2.36.8"
   },
   "dependencies": {
+    "aws-sdk": "^2.1447.0",
     "zod": "^3.22.4"
   }
 }
